@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
- <h2>Multiplication table</h2>
+ <h2>Print Multiplication table</h2>
  <form action="MOutput.jsp" method="POST">
  Enter number:<input type="number" name="multi" >
  <input type="submit" value="submit">
